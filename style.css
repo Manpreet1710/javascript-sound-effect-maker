@@ -1,0 +1,166 @@
+
+table{
+  width: 100%;
+}
+.ui-buttonset{
+  margin: 0 !important;
+}
+th{
+  text-align: left !important;
+  padding-bottom: 0.4rem;
+}
+.ui-slider .ui-slider-handle{
+  cursor: pointer;
+  border-radius: 100% !important;
+}
+.ui-slider-horizontal .ui-slider-handle{
+  cursor: pointer;
+}
+.ui-slider-horizontal{
+  height: 0 !important;
+}
+.ui-slider-horizontal .ui-slider-handle{
+  top:-7px !important;
+}
+.ui-button{
+  /* border: none !important; */
+  color: #fff !important;
+}
+.ui-button-text {
+  /* background: linear-gradient(to right, #e44d26, #f16529); */
+  border: none !important;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{
+  background: linear-gradient(to right, #56ab2f, #a8e063) !important;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header:hover{
+  border: 1px solid #666666 !important;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active{
+  background: #000 !important;
+border: 1px solid #666666 !important;
+}
+
+button,
+#soundexport,
+#sound_vol {
+  width: 200px;
+}
+
+#sound_vol {
+  margin-top: 4px;
+}
+
+#shape label {
+  width: 80px;
+}
+
+#hz label {
+  width: auto;
+}
+
+#bits label {
+  width: 100px;
+}
+
+#wav {
+  font-weight: bold;
+}
+div {
+  display: inline-block;
+}
+
+h1 {
+  padding-right: 1em;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+
+.slider {
+  width: 120px;
+}
+
+.ui-widget-content .ui-state-default {
+  border-color: #F58400;
+}
+
+* {
+  font: 10pt Helvetica;
+}
+
+
+
+button,
+input,
+label {
+  font-size: 10px;
+}
+
+div {
+  vertical-align: top;
+}
+
+
+
+hr {
+  font-size: 3px;
+}
+
+#demo-frame>div.demo {
+  padding: 10px !important;
+}
+
+div.demo {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  margin-left: 0.25em;
+}
+
+.ui-button{
+  margin-bottom: 0.2rem;
+}
+div#export {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#stats td {
+  text-align: right;
+}
+
+#stats {
+  width: 100%;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #0000ff;
+}
+
+
+#data {
+  width: 80%;
+  margin-top: 1em;
+}
+
+#data textarea {
+  width: 80%;
+  height: 40em;
+  margin-top: 1em;
+  min-width: 250px;
+}
+
+#copybuffer {
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
